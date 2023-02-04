@@ -38,6 +38,9 @@ setContentView(R.layout.activity_second);
 * [app/src/main/res/layout/activity_main.xml](https://github.com/Stirven13/Laboratory-for-mobily-application/blob/Lab3/app/src/main/res/layout/activity_main.xml)
 * [app/src/main/res/layout/activity_second.xml](https://github.com/Stirven13/Laboratory-for-mobily-application/blob/Lab3/app/src/main/res/layout/activity_second.xml)
 
+## Пример работы приложения
+![image](https://github.com/Stirven13/Laboratory-for-mobily-application/blob/Lab3/example_gif_lab3.gif)
+
 ## Дополнительная информация
 Данный код работает некорректно:
 ```java
