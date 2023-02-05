@@ -13,3 +13,7 @@
 ## Лабораторная работа 3
 **Тема:** [Создание многостраничного приложения.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab3)<br/>
 **Цель:** Научиться работать с Activity.
+
+## Лабораторная работа № 4
+**Тема:** [Создание дизайна.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab4)<br/>
+**Цель:** Разработать дизайн приложения с выводом анимации.
