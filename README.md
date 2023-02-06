@@ -17,3 +17,7 @@
 ## Лабораторная работа № 4
 **Тема:** [Создание дизайна.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab4)<br/>
 **Цель:** Разработать дизайн приложения с выводом анимации.
+
+## Лабораторная работа № 5
+**Тема:** [Работа с мультимедиа.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab5)<br/>
+**Цель:** Разработать свой видео **или** аудио проигрыватель.
