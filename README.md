@@ -28,3 +28,7 @@
 ## Лабораторная работа № 7
 **Тема:** [Работа с файловой системой.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab7)<br/>
 **Цель:** Научиться сохранять данные в текстовый файл и считывать из него.
+
+## Лабораторная работа № 8
+**Тема:** [Работа с базой данных SQLite.](https://github.com/Stirven13/Laboratory-for-mobily-application/tree/Lab8)<br/>
+**Цель:** Научиться работать с основными командами SQL.
